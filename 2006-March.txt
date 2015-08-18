@@ -1,0 +1,13 @@
+From fedcep at gmail.com  Wed Mar 29 23:15:38 2006
+From: fedcep at gmail.com (Federico Cepeda)
+Date: Wed, 29 Mar 2006 15:15:38 -0600
+Subject: [Pystocks-dev] Insider Trading data
+Message-ID: <b158b95a0603291315i533fe21k9351216033401bf5@mail.gmail.com>
+
+Have you considered adding insider trading data fetching, either from Yahoo!
+Finance or from the EDGAR website? I think it should not be hard since after
+Sarbanes-Oxley SEC requires electronic filings.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pystocks-dev/attachments/20060329/5461a09d/attachment.html>
+

@@ -1,0 +1,21 @@
+From nicolas at stormvault.net  Mon Jan  9 04:42:37 2006
+From: nicolas at stormvault.net (Nicolas Couture)
+Date: Sun, 8 Jan 2006 22:42:37 -0500
+Subject: [Pystocks-dev] PyStocks
+Message-ID: <1b9de130601081942j50b81be0rff802a0166a28514@mail.gmail.com>
+
+Hi All,
+
+This is just to let you know of the first release of PyStocks which
+currently claim to interfaces most options provided by Yahoo ! Finance's
+stocks quote service and all options of it's chart service. It's intended to
+be easy to use (easier than all existing interface to Yahoo ! Finance, as it
+is).
+
+http://pystocks.stormvault.net/
+
+Bests,
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pystocks-dev/attachments/20060108/594043f9/attachment.html>
+

@@ -1,0 +1,26 @@
+From nicolas at stormvault.net  Wed Apr  5 04:24:52 2006
+From: nicolas at stormvault.net (Nicolas Couture)
+Date: Tue, 4 Apr 2006 22:24:52 -0400
+Subject: [Pystocks-dev] Insider Trading data
+In-Reply-To: <b158b95a0603291315i533fe21k9351216033401bf5@mail.gmail.com>
+References: <b158b95a0603291315i533fe21k9351216033401bf5@mail.gmail.com>
+Message-ID: <1b9de130604041924g71f84554r7120016cf3a6963f@mail.gmail.com>
+
+Hi Federico,
+
+I will be adding an interface to the EDGAR database with the next release of
+PyStocks and perhaps add stocks object that will include both YahooFinance
+and EDGAR interfaces.
+
+Thanks,
+
+On 3/29/06, Federico Cepeda <fedcep at gmail.com> wrote:
+>
+> Have you considered adding insider trading data fetching, either from
+> Yahoo! Finance or from the EDGAR website? I think it should not be hard
+> since after Sarbanes-Oxley SEC requires electronic filings.
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/pystocks-dev/attachments/20060404/b82c63a8/attachment.html>
+
